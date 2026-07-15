@@ -21,6 +21,7 @@ body {
   width: 100%;
   z-index: 1000;
 }
+
 .navbar a {
   color: #ffffff;
   font-weight: 600;
@@ -45,6 +46,7 @@ body {
   height: 3px;
   transition: width 0.4s ease;
 }
+
 .navbar a:hover::after {
   width: 100%;
 }
